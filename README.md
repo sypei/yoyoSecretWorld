@@ -1,2 +1,2 @@
 # yoyoSecretWorld
-The first project yoyo sets up in GitHub！
+The first project yoyo sets up in GitHub!!BOOM
